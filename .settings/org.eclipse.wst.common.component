@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+                        
+    
+    
+    
+    
+    <wb-module deploy-name="003YIKorisniciODS">
+                                                
+        
+        
+        
+        
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user.src-old.database.services"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.user.database.mysql"/>
+                                                
+        
+        
+        
+        
+        <property name="java-output-path" value="/003YIKorisniciODS/build/classes"/>
+                
+        <property name="context-root" value="003YIKorisniciODS"/>
+                                            
+    
+    
+    
+    
+    </wb-module>
+                    
+
+
+
+
+</project-modules>
